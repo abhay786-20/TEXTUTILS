@@ -22,6 +22,11 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+
+}
+
+.ontainer-fluid{
+  background-color: #61dafb;
 }
 
 .App-link {
@@ -35,4 +40,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+.form-control{
+  color:red;
 }
